@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exp5.2</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">插入</string>
+    <string name="textview">Title：</string>
+    <string name="textview1">Content：</string>
+</resources>
